@@ -4,59 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "e6d9be040aaeca88",
+        "id": "311d3da1059f870b",
         "type": "tabs",
         "children": [
           {
-            "id": "cff62b2ce052b5e2",
+            "id": "c80e940db13e47ed",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "1. 참고자료/JPA Paging 기능.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "768bb53da7528fea",
+            "id": "7d761af565847d73",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. 참고자료/JPA Page 기능.md",
+                "file": "1. 참고자료/JPA Paging 기능.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "ff9a8cedd01e02b3",
+            "id": "4e9b5a5da25e8d90",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. 참고자료+내가조사한내용/JPA Page 기능.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "db905f2c799767bc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1. 참고자료/JPA Page 기능.md",
+                "file": "3. 블로그에 올릴 내용/JPA 페이징 API vs Pageable , 페이징 최적화.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -122,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. 참고자료/JPA Page 기능.md",
+                "file": "3. 블로그에 올릴 내용/JPA 페이징 API vs Pageable , 페이징 최적화.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. 참고자료/JPA Page 기능.md",
+                "file": "3. 블로그에 올릴 내용/JPA 페이징 API vs Pageable , 페이징 최적화.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. 참고자료/JPA Page 기능.md"
+                "file": "3. 블로그에 올릴 내용/JPA 페이징 API vs Pageable , 페이징 최적화.md"
               }
             }
           }
@@ -183,15 +171,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "db905f2c799767bc",
+  "active": "4e9b5a5da25e8d90",
   "lastOpenFiles": [
-    "Pasted image 20231124164952.png",
-    "1. 참고자료/JPA Page 기능.md",
-    "Untitled.canvas",
-    "1. 참고자료/페이징 API.md",
-    "3. 블로그에 올릴 내용/Jpa 페이징 API vs Pageable , 페이징 최적화.md",
+    "1. 참고자료/JPA Paging 최적화.md",
+    "2. 참고자료+내가조사한내용/JPA Paging 기능.md",
+    "2. 참고자료+내가조사한내용/JPA Paging API.md",
+    "2. 참고자료+내가조사한내용/JPA Paging 최적화.md",
+    "1. 참고자료/JPA Paging API.md",
+    "1. 참고자료/JPA Paging 기능.md",
+    "3. 블로그에 올릴 내용/JPA 페이징 API vs Pageable , 페이징 최적화.md",
     "README.md",
-    "2. 참고자료+내가조사한내용/JPA Page 기능.md",
+    "Pasted image 20231124164952.png",
+    "Untitled.canvas",
     "4. 템플릿",
     "Projects/Untitled 1.md",
     "Templates/Untitled.md",
