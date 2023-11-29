@@ -12,6 +12,4 @@ Page<T> findAll(Pageable pageable);
 
 인자로 Pageable을 넘기고 있다.
 
-[출처](https://wonit.tistory.com/483)
-
-
+[[배워보자 Spring Data JPA] JPA 에서 Pageable 을 이용한 페이징과 정렬](https://wonit.tistory.com/483)
