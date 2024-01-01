@@ -5,6 +5,7 @@
 2. 참고자료 + 내가 조사한 내용
 ## Permanent Notes
 3. 블로그에 올릴 내용
+https://jini-space.tistory.com/category
 ## Templates
 4. 자주 사용하는 템플릿
 
