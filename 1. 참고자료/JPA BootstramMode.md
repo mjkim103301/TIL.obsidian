@@ -1,4 +1,4 @@
-JPA 부트스트랩 모드는 기본,  Lazy, Deferred 로 나뉜다.
+JPA 부트스트림 모드는 기본,  Lazy, Deferred 로 나뉜다.
 
 ###  Default
 기본 설정은 앱 실행 전에 Repository들을 모두 초기화시킨다.

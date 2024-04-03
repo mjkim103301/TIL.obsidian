@@ -36,7 +36,7 @@ DB의 메타정보(테이블, 컬럼, 인덱스 등의 스키마 정보)를 모�
 
 **from** information_schema.**columns**
 
-**where** column_name = 'CHNG_EMNB'
+**where** column_name = 'COLUMN NAME'    -- put column name here
 
 ```
 
