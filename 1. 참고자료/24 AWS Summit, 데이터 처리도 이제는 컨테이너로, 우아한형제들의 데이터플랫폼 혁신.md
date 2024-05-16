@@ -63,3 +63,8 @@
 
 
 미래전략 및 마무리
+* Remote Shuffle Service 활용해서 효율적인 Shuffleing 수행
+* Inplace pod resource resizing : stage 가 재실행되면서 발생할 수 있는 오류 예방
+* 권한 인증 개선: 데이터 조회 시 trino(쿼리 엔진), ranger 를 활용해서 접근 권한 제어 및 마스킹 작업 진행
+	* AWS Lake Formation 을 활용해서 EMR on EKS 권한제어예정
+* IDC 자원의 활용: NVIDIA 많이 활용 예
